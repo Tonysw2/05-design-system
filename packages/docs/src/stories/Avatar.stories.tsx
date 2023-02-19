@@ -9,6 +9,12 @@ export default {
     src: 'https://github.com/tonysw2.png',
     alt: 'Anthony Ribeiro da Mata',
   },
+
+  argTypes: {
+    src: {
+      control: { type: 'text' },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}

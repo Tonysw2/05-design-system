@@ -3424,7 +3424,7 @@ var Button = styled("button", {
           borderColor: "$gray200"
         }
       },
-      terciary: {
+      tertiary: {
         color: "$gray100",
         "&:not(:disabled):hover": {
           color: "$white"
