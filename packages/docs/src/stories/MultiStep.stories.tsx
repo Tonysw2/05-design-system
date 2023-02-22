@@ -1,4 +1,8 @@
-import { Box, MultiStep, MultiStepProps } from '@ignite-ui/react'
+import {
+  Box,
+  MultiStep,
+  MultiStepProps,
+} from '@tony-ignite-ui-design-system/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
