@@ -1,0 +1,2 @@
+import{A as t}from"./index-05c1a108.js";import"./index-cb75dca6.js";import"./es.object.get-own-property-descriptor-366a41fe.js";import"./index-a2c70fc6.js";import"./jsx-runtime-c73124c0.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/tonysw2.png",alt:"Anthony Ribeiro da Mata"},argTypes:{src:{control:{type:"text"}}}},c={},n={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,n as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-0094efc9.js.map
